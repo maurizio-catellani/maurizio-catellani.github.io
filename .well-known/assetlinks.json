@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.example.app",
-      "sha256_cert_fingerprints": ["YOUR_APP_SHA256_CERT_FINGERPRINT"]
+      "package_name": "com.example.tasto",
+      "sha256_cert_fingerprints": ["DA:D8:FE:94:9B:DD:1E:A2:6E:D4:D6:85:69:B3:5C:02:D6:05:ED:FF:5D:AF:06:58:1F:40:95:3D:79:EE:5F:E2"]
     }
   }
 ]
